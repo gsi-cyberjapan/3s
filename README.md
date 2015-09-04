@@ -3,7 +3,7 @@ A presentation material for 3 simple solid specifications for tile-based web map
 
 The presentation material will be avialable as a markdown file tuned for remark.
 
-## three specifications to be covered
+## Three specifications to be covered
 - [mokuroku](https://github.com/gsi-cyberjapan/mokuroku-spec) - tileset matadata to make tileset sync-able
 - [cocotile](https://github.com/gsi-cyberjapan/cocotile-spec) - metadata tileset to indicate which tilesets are available here
 - [kakotile](https://github.com/gsi-cyberjapan/kakotile-spec) - metadata tile for backup tiles to enable tile time machine
