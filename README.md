@@ -1,4 +1,4 @@
-# 3s
+# [WIP] 3s
 A presentation material for 3 simple solid specifications for tile-based web mapping.
 
 The presentation material will be avialable as a markdown file tuned for remark.
